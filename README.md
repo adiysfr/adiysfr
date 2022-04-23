@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiysfr&layout=compact)](https://github.com/adiysfr/adiysfr)
 
 ## Find me here !
-Email : [adiyusuframadhan@gmail.com](adiyusuframadhan@gmail.com)
-Linkedin : [Linkedin](https://www.linkedin.com/in/adi-yusuf-ramadhan-63994a140/)
+Email : [adiyusuframadhan@gmail.com](mailto:adiyusuframadhan@gmail.com)<br />
+Linkedin : [Linkedin](https://www.linkedin.com/in/adi-yusuf-ramadhan-63994a140/)<br />
 Website : [My Website](https://adiysfr.herokuapp.com)
