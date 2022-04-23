@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiysfr&layout=compact)](https://github.com/adiysfr/adiysfr)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adiysfr)](https://github.com/adiysfr/adiysfr)
+[![adiysfr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adiysfr)](https://github.com/adiysfr/adiysfr)
