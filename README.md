@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ## Find me here !
 Email : [adiyusuframadhan@gmail.com](mailto:adiyusuframadhan@gmail.com)<br />
 Linkedin : [Linkedin](https://www.linkedin.com/in/adi-yusuf-ramadhan-63994a140/)<br />
-Website : [My Website]([https://adiysfr.herokuapp.com](https://adiysfr.netlify.app/))
+Website : [My Website](https://adiysfr.netlify.app/)
